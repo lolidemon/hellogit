@@ -3,4 +3,4 @@
 hello,little fairy
 hello, edition control
 I love ZZY
-git tracks changes instead of file itself
+git tracks changes instead of file itself. the changes of file
